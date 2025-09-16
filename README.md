@@ -7,7 +7,8 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-![NextJS](https://img.shields.io/badge/Code-NextJs-purple?logo=nextjs)
+![NextJS](https://img.shields.io/badge/Code-NextJs-purple?logo=next.js)
+![Shadcn/ui](https://img.shields.io/badge/Code-Shadcn/ui-pink?logo=nextjs)
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
