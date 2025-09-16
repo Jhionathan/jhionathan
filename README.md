@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Jhonathan!  
 
 💻 Desenvolvedor apaixonado por tecnologia e soluções criativas.  
-🚀 Atualmente estudando e desenvolvendo projetos em **TypeScript, NodeJS e Front-End**.  
+🚀 Atualmente estudando e desenvolvendo projetos em **NextJS, Tailwind, Shadcn/ui, TypeScript**.  
 📚 Sempre em busca de novos desafios e aprendizado constante.  
 
 ---
