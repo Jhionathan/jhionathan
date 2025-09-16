@@ -9,9 +9,9 @@
 ## 🛠️ Tecnologias & Ferramentas  
 ![NextJS](https://img.shields.io/badge/Library-NextJs-purple?logo=next.js)
 ![Shadcn/ui](https://img.shields.io/badge/Style-Shadcn/ui-pink?logo=shadcn/ui)
-![Tailwind](https://img.shields.io/badge/Style-Tailwind-zinc?logo=tailwindcss)
+![Tailwind](https://img.shields.io/badge/Style-Tailwind-withe?logo=tailwindcss)
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
 ![NodeJS](https://img.shields.io/badge/Backend-NodeJS-green?logo=node.js)
